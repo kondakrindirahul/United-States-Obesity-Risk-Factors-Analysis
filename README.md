@@ -6,4 +6,4 @@
 * Different clustering algorithms like K-Means, DBSCAN, Agglomerative Hierarchial clustering are applied on both the datasets
 and the results of clustering are plotted on USA map using choropleth maps provided by **plotly**.
 * The clustering results have been subject to dimensionality reduction techniques like Principal Component Analysis (PCA) to plot the clusters in a **2-Dimensional Scatter Plot**.
-* The CDC Risk factors dataset and the Demographic factors DataSet are compared by using the visualizations provided by United Stated Maps and the 2-D Scatter Plots.
+* The CDC Risk factors dataset and the Demographic factors DataSet are compared by using the visualizations provided by chorpleth United Stated Maps and the 2-D Scatter Plots.
